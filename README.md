@@ -1,3 +1,4 @@
 # ElixirOrLife
- 371 - Team 4 Game
+371 - Team 4 Game
+
 Our team designed and developed a fully functional 3D action-adventure game over the course of a quarter, focusing on meaningful play and core game design principles. The game combines open-world exploration, combat, and platforming, challenging players to make strategic risk–reward decisions while progressing through increasingly difficult levels. Players begin in a calm village environment, learning basic controls and collecting coins, then face escalating challenges including skeletons, a dragon, and finally a wizard boss with voiceover immersion. Iterative design, playtesting, and reward systems were used to balance difficulty, narrative, and flow, ensuring players remain engaged while making meaningful choices that impact gameplay and progression.
